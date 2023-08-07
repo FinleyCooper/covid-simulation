@@ -1,0 +1,9 @@
+__pycache__/
+media/
+output/*
+!output/.gitkeep
+.cache/
+project/infection_log.txt
+project/R0.txt
+settings.json
+docs/
