@@ -1,8 +1,8 @@
-# My EPQ Project
-What was the role of epidemic modelling in influencing government policies against COVID-19?  
-A comparison of the policies used by England and Sweden in March to December 2020.  
-  
-The material and information contained on this project and all relating code is for general information and educational purposes only, You should not rely upon the material or information created here, or any data created using the model as any basis for making any business, legal or any other decisions.
+# COVID Simulation
+Disease model to assist with the following research project.
+
+_What was the role of epidemic modelling in influencing government policies against COVID-19?  
+A comparison of the policies used by England and Sweden in March to December 2020._
 
 ## Navigating the repository
 
